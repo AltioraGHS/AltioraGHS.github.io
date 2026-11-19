@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.altiora-ghs.com/</loc>
-    <lastmod>2025-08-11</lastmod>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.altiora-ghs.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.altiora-ghs.com/fr/"/>
+  </url>
+  <url>
+    <loc>https://www.altiora-ghs.com/fr/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.altiora-ghs.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.altiora-ghs.com/fr/"/>
   </url>
   <url>
     <loc>https://www.altiora-ghs.com/legal-notice.html</loc>
@@ -14,18 +22,10 @@
   </url>
   <url>
     <loc>https://www.altiora-ghs.com/privacy-policy.html</loc>
-    <lastmod>2025-08-11</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://www.altiora-ghs.com/privacy-policy-fr.html</loc>
-    <lastmod>2025-08-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.altiora-ghs.com/Altiora_Rate_Card.pdf</loc>
-    <lastmod>2025-08-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.altiora-ghs.com/thank-you.html</loc>
-    <lastmod>2025-08-11</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
 </urlset>
