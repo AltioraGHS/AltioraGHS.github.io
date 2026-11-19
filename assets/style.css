@@ -166,3 +166,9 @@ textarea{min-height:120px;resize:vertical}
 .thanks{min-height:70vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:2rem 1.25rem}
 .thanks .card{max-width:520px;flex:none}
 .thanks .card:hover{transform:none;box-shadow:none}
+
+/* Sélecteur de langue et note de bas de section */
+.nav a.lang{border:1px solid rgba(255,255,255,.4);border-radius:999px;padding:.2rem .75rem;font-family:var(--head);font-size:.8rem;letter-spacing:.06em;opacity:1}
+.nav a.lang:hover{background:#fff;color:var(--navy);text-decoration:none}
+@media (max-width:760px){.nav a.lang{display:inline-flex}}
+.about .note{margin:1.5rem 0 0;padding-top:1.1rem;border-top:1px solid var(--line);color:var(--muted);font-size:1rem}
